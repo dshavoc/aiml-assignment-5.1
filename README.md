@@ -40,7 +40,7 @@ An attempt was made to visualize the relationship between temperature, gender, a
 > Finding: It was concluded that the discretization of the data is not well-lent to a Pair Plot as all the data points stacked on one another.
 
 **Group Location by Acceptance**  
-Location-related columns were selected, and the rows grouped by coupon acceptance. Each group was averaged, and a bar plot was generated.
+Location-related columns were selected, and the rows grouped by coupon acceptance. Each group was averaged and normalized, and a bar plot was generated.
 
 ![asdf](images/distance-direction-by-acceptance.png)
 
